@@ -1,3 +1,7 @@
+### Purpose of this Fork
+1. run DiffTraj on Public datset, to play around the code and gain a more conprehensive understanding of DiffTraj.
+      * preprocessing the publicly available dataset [Porto Taxi](https://www.kaggle.com/datasets/crailtap/taxi-trajectory)
+
 ### Requirements
 
 You can install the required packages in your python environment by:
